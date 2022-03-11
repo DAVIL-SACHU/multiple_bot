@@ -1,0 +1,9 @@
+# Multiple Bot making
+
+## LIST OF BOT
+
+USER BOT
+
+PUBLIC BGM BOT
+
+PUBLIC BOT
